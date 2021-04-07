@@ -1,0 +1,8 @@
+Postman Test:
+
+18.138.230.86:8081/activity
+
+{
+    "action": "register",
+    "identifier": "email"
+}
